@@ -1,0 +1,1 @@
+CSS (Cascading Style Sheets) is a declarative style sheet language used to control the visual presentation of documents written in markup languages like HTML or XML (including SVG and MathML)

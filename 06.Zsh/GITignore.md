@@ -1,0 +1,1 @@
+SHort description about how to work with .gitignore file

@@ -5,6 +5,6 @@ A short main description about:
 3. CSS;
 4. JavaScript;
 5. C#;
-5. Unix commands.
+5. Zsh or Unix commands.
 
 Just a short command for remind about it
