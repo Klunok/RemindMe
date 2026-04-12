@@ -7,4 +7,5 @@ A short main description about:
 5. C#;
 5. Zsh or Unix commands.
 
-Just a short command for remind about it
+Just a short command for remind about it.  
+And cheat sheets.
